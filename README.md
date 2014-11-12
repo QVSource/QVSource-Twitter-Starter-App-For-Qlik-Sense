@@ -1,0 +1,19 @@
+QVSource Twitter Starter App For Qlik Sense
+===========================================
+This is a starter QlikView application pack showing how to get started using the [QVSource Twitter Connector](http://wiki.qvsource.com/Twitter-Connector-For-QlikView.ashx) for QlikView and Qlik Sense.
+
+(This is based on the equivalent application for QlikView which can be found [here](https://github.com/QVSource/QVSource-Twitter-Starter-App-For-QlikView). The main difference in this initial release is that the contents of config.txt have been placed directly into the load script.)
+
+In addition to the Twitter Connector, this application also makes use of the [Sentiment and Text Analytics Connector](http://wiki.qvsource.com/Sentiment-Analysis-And-Text-Analytics-Connector-For-QlikView.ashx) to score Tweets and the [Klout Connector](http://wiki.qvsource.com/Klout-Connector-for-QlikView-%28v2%29.ashx) to measure the influence of Tweeters.
+
+If you are a Qlik Sense + QVSource user you can simply click the ["Download ZIP"](https://github.com/QVSource/QVSource-Twitter-Starter-App-For-Qlik-Sense/archive/master.zip) button on GitHub to grab this application.
+
+The content below is copied from the change log in the first tab of the load script.
+
+You should copy the files in the /images sub folder to your qlik/sense/content/default directory.
+
+Change Log
+----------
+1.0.0 - 12/11/14
+----------------
+* First public release - initial version is based on the equivalent application for QlikView (https://github.com/QVSource/QVSource-Twitter-Starter-App-For-QlikView).
