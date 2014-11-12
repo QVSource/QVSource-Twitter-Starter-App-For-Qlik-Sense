@@ -10,7 +10,9 @@ If you are a Qlik Sense + QVSource user you can simply click the ["Download ZIP"
 
 The content below is copied from the change log in the first tab of the load script.
 
-You should copy the files in the /images sub folder to your qlik/sense/content/default directory.
+NOTE:
+* You will need to install the extension twitter_image_table.rar in the \extensions sub folder in order to be able to view the table on the bottom of the details sheet.
+* You should copy the files in the /images sub folder to your qlik/sense/content/default directory.
 
 Change Log
 ----------
