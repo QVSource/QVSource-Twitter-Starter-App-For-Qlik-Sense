@@ -1,5 +1,7 @@
 QVSource Twitter Starter App For Qlik Sense
 ===========================================
+**IMPORTANT** - If you are using QVSource 1.6.5.3 or later you will need to update the parts of the load script in this application which use the [Sentiment Analysis & Text Analytics Connector](http://wiki.qvsource.com/Sentiment-Analysis-And-Text-Analytics-Connector-For-QlikView.ashx) according to the instructions [here](http://wiki.qvsource.com/Upgrading-to-version-1_1-of-the-Sentiment-Analysis-And-Text-Analytics-Connector.ashx). We plan to update this starter app soon with these changes.
+
 ![](screenshot.png)
 
 This is a starter QlikView application pack showing how to get started using the [QVSource Twitter Connector](http://wiki.qvsource.com/Twitter-Connector-For-QlikView.ashx) for QlikView and Qlik Sense.
