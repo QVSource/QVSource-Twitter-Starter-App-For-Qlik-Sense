@@ -20,6 +20,10 @@ NOTE:
 
 Change Log
 ----------
+1.0.1 - 17/12/15
+----------------
+* Made change outlined here [http://wiki.qvsource.com/Upgrading-to-version-1_1-of-the-Sentiment-Analysis-And-Text-Analytics-Connector.ashx] to make app compatible with QVSource Web Editios and QVSource WinForms Edition 1.6.7.0 and later.
+
 1.0.0 - 12/11/14
 ----------------
 * First public release - initial version is based on the equivalent application for QlikView (https://github.com/QVSource/QVSource-Twitter-Starter-App-For-QlikView).
